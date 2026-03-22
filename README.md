@@ -1,7 +1,4 @@
 # 🧪 Data Science Internship — Unified Mentor
-**Intern:** Mahi Mistry · 📧 mistrymahi3@gmail.com · ⏳ 3 Months
-
-> 4 end-to-end Data Science projects covering ML, NLP, Time Series & Anomaly Detection.
 
 ---
 
@@ -31,20 +28,7 @@ Uncovered purchasing behavior, peak sales hours, and customer segments from tran
 
 ---
 
-## 📸 Project 3 · Instagram Fake Account Detection
-
-Classified Instagram accounts as genuine, fake, or spam using profile and engagement features.
-
-| | |
-|---|---|
-| **Dataset** | Instagram `train.csv` / `test.csv` |
-| **Tools** | Python, Pandas, Scikit-learn, Matplotlib, Seaborn, SHAP |
-| **Techniques** | Binary Classification, Feature Engineering, SHAP Explainability |
-| **Key Factors** | `log_followers` & `follower_following_ratio` were strongest predictors; real accounts hold all high-follower outliers |
-
----
-
-## 🚬 Project 4 · Tobacco Use & Mortality (2004–2015)
+## 🚬 Project 3 · Tobacco Use & Mortality (2004–2015)
 
 Analyzed 11 years of India's smoking prevalence, disease burden, and mortality trends across age groups.
 
@@ -67,4 +51,4 @@ Analyzed 11 years of India's smoking prevalence, disease burden, and mortality t
 
 ## 🏢 Internship
 
-**Organization:** Unified Mentor &nbsp;|&nbsp; **Role:** Data Science Intern &nbsp;|&nbsp; **Duration:** 3 Months &nbsp;|&nbsp; **Projects:** 4
+**Organization:** Unified Mentor &nbsp;|&nbsp; **Role:** Data Science Intern &nbsp;|&nbsp; **Duration:** 3 Months &nbsp;|&nbsp; **Projects:** 3
